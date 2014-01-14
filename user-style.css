@@ -1,0 +1,18 @@
+@-moz-document domain("userstyles.org") {
+	html,body {
+		background: #404040 !important;
+		color: #D4C4A9 !important;
+	}
+
+	a {
+		color: #7F9F7F !important;
+	}
+
+	a:visited {
+		color: #CC9393 !important;
+	}
+
+	nav,header,footer {
+		background: #505050 !important;
+	}
+}
